@@ -41,4 +41,7 @@ Impact: This proves excellent supply chain stability and strict cost controls, m
 Healthy Customer Distribution: * Insight: The top 5 customers share an almost equal purchasing volume (ranging tightly between $13K and $16K).
 Impact: Low revenue risk. The business is not dangerously reliant on a single "whale" client, creating a stable, well-distributed customer base ripe for a VIP loyalty program.
 
+Screenshot:
+Dashboard preview(https://github.com/SakshiDA13/Adventure-work-Sales-Dashboard/blob/main/Snapshot%20of%20Dashboard%201)
+
 
