@@ -43,5 +43,6 @@ Impact: Low revenue risk. The business is not dangerously reliant on a single "w
 
 Screenshot:
 Dashboard preview(https://github.com/SakshiDA13/Adventure-work-Sales-Dashboard/blob/main/Snapshot%20of%20Dashboard%201)
+Dashboard 2 (https://github.com/SakshiDA13/Adventure-work-Sales-Dashboard/blob/main/Snapshot%20of%20Dashboard%202)
 
 
